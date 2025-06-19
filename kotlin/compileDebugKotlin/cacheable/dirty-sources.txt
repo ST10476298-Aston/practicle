@@ -1,0 +1,4 @@
+C:\Users\lab_services_student\AndroidStudioProjects\practicle\app\src\main\java\vcmsa\ci\practicle\ui\theme\Type.kt
+C:\Users\lab_services_student\AndroidStudioProjects\practicle\app\src\main\java\vcmsa\ci\practicle\ui\theme\Color.kt
+C:\Users\lab_services_student\AndroidStudioProjects\practicle\app\src\main\java\vcmsa\ci\practicle\MainActivity.kt
+C:\Users\lab_services_student\AndroidStudioProjects\practicle\app\src\main\java\vcmsa\ci\practicle\ui\theme\Theme.kt
